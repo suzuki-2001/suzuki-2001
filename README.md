@@ -1,4 +1,5 @@
 # Hi there 👋
+[![commit](https://badgen.net/badge/:last commit/:yesterday/:cyan?icon=github)
 [![Articles](https://badgen.org/img/zenn/shosuke_13/articles?style=flat)](https://zenn.dev/shosuke_13)
 
 ###### ・Univ.Tsukuba/Bioinfomatics Laboratory Students
