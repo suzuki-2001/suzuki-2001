@@ -1,4 +1,6 @@
 # Hi there 👋
+[![Articles](https://badgen.org/img/zenn/shosuke_13/articles?style=flat)](https://zenn.dev/shosuke_13)
+
 ###### ・Univ.Tsukuba/Bioinfomatics Laboratory Students
 ###### ・National Agriculture and Food Research Organization (NARO)
 
