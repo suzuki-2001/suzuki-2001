@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mo-ri-regen&theme=vue-dark&show_icons=true)](https://github.com/shosuke-13/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shosuke-13&theme=vue-dark&show_icons=true)](https://github.com/shosuke-13/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shosuke-13&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/shosuke-13/github-readme-stats)
 
