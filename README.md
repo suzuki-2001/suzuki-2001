@@ -1,8 +1,5 @@
 ### Hi there 👋
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shosuke-13&theme=vue-dark&show_icons=true)](https://github.com/shosuke-13/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shosuke-13&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/shosuke-13/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={shosuke-13}&theme={dracula})
 
 <!--
 **shosuke-13/shosuke-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
