@@ -2,7 +2,7 @@
 ###### ・Univ.Tsukuba/Bioinfomatics Laboratory Students
 ###### ・National Agriculture and Food Research Organization (NARO)
 
-## Zenn
+## Zenn Articles
 [Rosalind for bioinfomatics](https://zenn.dev/shosuke_13/articles/7785c55268b7ed)
 
 ## Languages and Tools:
