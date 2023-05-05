@@ -1,6 +1,9 @@
 ### Hi there 👋
-![Profiles detail](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shosuke-13&theme=dracula)
-![The language used](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shosuke-13&theme=dracula&exclude={exclude})
+![Profiles detail](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shosuke-13&theme=zenburn)
+![The language used](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shosuke-13&theme=zenburn&exclude={exclude})
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shosuke-13&theme=zenburn)
+
+
 <!--
 **shosuke-13/shosuke-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
