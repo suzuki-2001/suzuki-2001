@@ -1,4 +1,7 @@
 ### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=shosuke-13)](https://github.com/ryo-ma/github-profile-trophy)
+
+***
 ![Profiles detail](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shosuke-13&theme=zenburn)
 ![Top language used](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shosuke-13&theme=zenburn&exclude={exclude})
 ![Top language commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shosuke-13&theme=zenburn&exclude={exclude})
