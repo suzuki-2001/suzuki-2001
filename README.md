@@ -17,7 +17,6 @@
 ![Top language used](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shosuke-13&theme=zenburn&exclude={exclude})
 ![Top language commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shosuke-13&theme=zenburn&exclude={exclude})
 ![Stars card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shosuke-13&theme=zenburn)
-![Productive time card](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shosuke-13&theme=zenburn&utcOffset={utcOffset})
 
 <!--
 **shosuke-13/shosuke-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
