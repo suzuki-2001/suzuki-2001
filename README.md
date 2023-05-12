@@ -6,8 +6,8 @@
 ###### ・National Agriculture and Food Research Organization (NARO)
 
 ## Zenn Articles
-[Rosalind for bioinfomatics programming](https://zenn.dev/shosuke_13/articles/7785c55268b7ed)¥¥
-[Beamer (Metropolis) for making your slids](https://zenn.dev/shosuke_13/articles/7ffdf45cb5da6c)
+- [Rosalind for bioinfomatics programming](https://zenn.dev/shosuke_13/articles/7785c55268b7ed)
+- [Beamer (Metropolis) for making your slids](https://zenn.dev/shosuke_13/articles/7ffdf45cb5da6c)
 
 ## Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=github,latex,emacs,linux,py,cpp,r,matlab&theme=light&perline=4)](https://skillicons.dev)
