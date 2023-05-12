@@ -10,7 +10,7 @@
 - [Beamer (Metropolis) for making your slids](https://zenn.dev/shosuke_13/articles/7ffdf45cb5da6c)
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=github,latex,emacs,linux,py,cpp,r,matlab&theme=light&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,latex,vscode,emacs,linux,py,cpp,r,matlab&theme=light&perline=3)](https://skillicons.dev)
 
 ## GitHub Stats
 ![Profiles detail](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shosuke-13&theme=zenburn)
