@@ -14,9 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=github,latex,vscode,emacs,linux,py,cpp,r,matlab&theme=light&perline=3)](https://skillicons.dev)
 
 ## GitHub Stats
-![Profiles detail](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shosuke-13&theme=zenburn)
 ![Top language used](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shosuke-13&theme=zenburn&exclude={exclude})
-![Top language commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shosuke-13&theme=zenburn&exclude={exclude})
 ![Stars card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shosuke-13&theme=zenburn)
 
 <!--
