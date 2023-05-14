@@ -8,6 +8,7 @@
 ## Zenn Articles
 - [Rosalind for bioinfomatics programming](https://zenn.dev/shosuke_13/articles/7785c55268b7ed)
 - [Beamer (Metropolis) for making your slids](https://zenn.dev/shosuke_13/articles/7ffdf45cb5da6c)
+- [Atcoder B: ”A to Z String”を簡単に解く](https://zenn.dev/shosuke_13/articles/90c3fb31f05ca8)
 
 ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=github,latex,vscode,emacs,linux,py,cpp,r,matlab&theme=light&perline=3)](https://skillicons.dev)
