@@ -2,7 +2,7 @@
 ![](https://badgen.net/badge/Univ/Tsukuba/cyan?icon=github)
 [![Articles](https://badgen.org/img/zenn/shosuke_13/articles?style=plastic)](https://zenn.dev/shosuke_13)
 
-###### ・Univ.Tsukuba/Bioinfomatics Laboratory Students
+###### ・Univ.Tsukuba/Bioinfomatics Laboratory Student
 ###### ・National Agriculture and Food Research Organization (NARO)
 
 ## Zenn Articles
