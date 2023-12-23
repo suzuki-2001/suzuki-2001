@@ -5,8 +5,8 @@
 [![shosuke13](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fshosuke13)](https://atcoder.jp/users/shosuke13)
 [![Articles](https://badgen.org/img/zenn/shosuke_13/articles?style=plastic)](https://zenn.dev/shosuke_13)
 
-###### ・Univ.Tsukuba/Bioinfomatics Laboratory Student
-###### ・National Agriculture and Food Research Organization (NARO)
+- Univ.Tsukuba / Bioinfomatics Laboratory
+- National Agriculture and Food Research Organization
 
 ## Zenn Articles
 - [Rosalind バイオインフォマティクスプログラミング](https://zenn.dev/shosuke_13/articles/7785c55268b7ed)
