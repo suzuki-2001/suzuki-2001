@@ -13,7 +13,7 @@
 - [Beamer (Metropolis) でスライドを作る](https://zenn.dev/shosuke_13/articles/7ffdf45cb5da6c)
 - [Atcoder B: ”A to Z String”を簡単に解く](https://zenn.dev/shosuke_13/articles/90c3fb31f05ca8)
 - [BERTをバイオインフォマティクスに応用した研究　-DNA BERT-](https://zenn.dev/shosuke_13/articles/7ae271bcb6d3ef)
-- [浮動小数点型で比較して誤差で沼った話](https://zenn.dev/articles/9a8d080cc427b0)
+- [浮動小数点型で比較して誤差で沼った話](https://zenn.dev/shosuke_13/articles/9a8d080cc427b0)
 
 ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=github,latex,vscode,emacs,linux,bash,py,cpp,r,aws,gcp,docker,pytorch,mysql,flask,discord&theme=light&perline=4)](https://skillicons.dev)
