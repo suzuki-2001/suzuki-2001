@@ -19,5 +19,5 @@
 [![My Skills](https://skillicons.dev/icons?i=github,latex,vscode,emacs,linux,bash,py,cpp,r,aws,gcp,docker,pytorch,mysql,flask,discord&theme=light&perline=4)](https://skillicons.dev)
 
 ## GitHub Stats
-![Top language used](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shosuke-13&theme=zenburn&exclude={exclude})
-![Stars card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shosuke-13&theme=zenburn)
+![](https://raw.githubusercontent.com/shosuke-13/shosuke-13/main/profile-summary-card-output/discord_old_blurple/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/shosuke-13/shosuke-13/main/profile-summary-card-output/discord_old_blurple/3-stats.svg)
