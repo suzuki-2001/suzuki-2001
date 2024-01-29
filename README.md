@@ -16,7 +16,10 @@
 - [浮動小数点型で比較して誤差で沼った話](https://zenn.dev/shosuke_13/articles/9a8d080cc427b0)
 
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=github,latex,vscode,emacs,linux,bash,py,cpp,r,aws,gcp,docker,pytorch,mysql,flask,discord&theme=light&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,latex,vscode,linux,bash,py,cpp,r,aws,gcp,docker,terraform,mysql,discord&theme=light&perline=4)](https://skillicons.dev)
+
+## Next 
+[![My Skills](https://skillicons.dev/icons?i=java,go,rust,pytorch&theme=light&perline=4)](https://skillicons.dev)
 
 ## GitHub Stats
 ![](https://raw.githubusercontent.com/shosuke-13/shosuke-13/main/profile-summary-card-output/discord_old_blurple/1-repos-per-language.svg)
