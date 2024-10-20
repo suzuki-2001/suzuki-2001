@@ -5,7 +5,7 @@
 [![shosuke13](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fshosuke13)](https://atcoder.jp/users/shosuke13)
 [![Articles](https://badgen.org/img/zenn/shosuke_13/articles?style=plastic)](https://zenn.dev/shosuke_13)
 
-- *Univ.Tsukuba / Computational Biology and Bioinfomatics*
+- *University of Tsukuba / Computational Biology and Bioinfomatics*
 - *National Agriculture and Food Research Organization (NARO, 2022~2024)*
 - *National Institute of Advanced Industrial Science and Technology (AIST, 2024~)*
 
