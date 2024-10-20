@@ -10,10 +10,7 @@
 - *National Institute of Advanced Industrial Science and Technology (AIST, 2024~)*
 
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,latex,vscode,linux,bash,py,cpp,r,aws,gcp,docker,terraform,mysql,discord&theme=light&perline=4)](https://skillicons.dev)
-
-## Next 
-[![My Skills](https://skillicons.dev/icons?i=java,go,rust,pytorch&theme=light&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,vscode,linux,bash,py,cpp,aws,gcp,docker,pytorch&theme=light&perline=4)](https://skillicons.dev)
 
 ## GitHub Stats
 ![](https://raw.githubusercontent.com/shosuke-13/shosuke-13/main/profile-summary-card-output/zenburn/1-repos-per-language.svg)
