@@ -1,9 +1,9 @@
 <!-- **shosuke-13/shosuke-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # Hi there 👋
-![](https://badgen.net/badge/Univ/Tsukuba/cyan?icon=github)
-[![shosuke13](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fshosuke13)](https://atcoder.jp/users/shosuke13)
-[![Articles](https://badgen.org/img/zenn/shosuke_13/articles?style=plastic)](https://zenn.dev/shosuke_13)
+<!-- ![](https://badgen.net/badge/Univ/Tsukuba/cyan?icon=github) -->
+<!-- [![shosuke13](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fshosuke13)](https://atcoder.jp/users/shosuke13) -->
+<!-- [![Articles](https://badgen.org/img/zenn/shosuke_13/articles?style=plastic)](https://zenn.dev/shosuke_13) -->
 
 - *University of Tsukuba / Computational Biology and Bioinfomatics*
 - *National Agriculture and Food Research Organization (NARO, 2022~2024)*
