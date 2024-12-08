@@ -7,8 +7,6 @@
 
 - *University of Tsukuba / Bioinfomatics and Computational Biology, Master student*
 - *National Institute of Advanced Industrial Science and Technology (AIST, 2024~)* 
-</br>
-
 - *National Agriculture and Food Research Organization (NARO, 2022~2024)*
 
 
