@@ -7,9 +7,9 @@
 
 ### 🖇️ Personal Information
 - *University of Tsukuba / Bioinfomatics and Computational Biology*
-  - B: Bioresource Science
-  - M: Bioresource Science
-  - (Next) PhD : Computer Science
+  - B: Bioresource Science (2019-2023)
+  - M: Bioresource Science (2023-2025)
+  - (Next) PhD : Computer Science (2025-2028)
  
 - Research Assistant
   - *National Institute of Advanced Industrial Science and Technology (AIST, 2024~)* 
