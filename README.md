@@ -22,8 +22,8 @@
 - [DentsuDigital 6days DataScience Internship](https://www.dentsudigital.co.jp/careers/ngr/internships-data-science) (9, 2023)
 
 ### 🏆 Achievements
-- [Japan Biology Olympiad 2018](https://www.jbo-info.jp/jbo/jbo2018.html) (rank 158/4189, < 5%)
-- [AdaptyvBio - The Protein Design Competition](https://foundry.adaptyvbio.com/competition?design=b8d404ba-d5c2-4860-a5c3-fcc8ba56a29a) (rank 8, Best KD: 2.64e-7 M)
+- [Japan Biology Olympiad 2018](https://www.jbo-info.jp/jbo/jbo2018.html) (Rank 158/4189, < 5%)
+- [AdaptyvBio - The Protein Design Competition](https://foundry.adaptyvbio.com/competition?design=b8d404ba-d5c2-4860-a5c3-fcc8ba56a29a) (Rank 8, Best KD: 2.64e-7 M)
 
 ### 🍳 Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,vscode,linux,bash,py,cpp,aws,gcp,docker,pytorch&theme=light&perline=4)](https://skillicons.dev)
