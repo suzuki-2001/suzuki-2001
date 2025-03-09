@@ -6,9 +6,9 @@
 <!-- [![Articles](https://badgen.org/img/zenn/shosuke_13/articles?style=plastic)](https://zenn.dev/shosuke_13) -->
 
 - University of Tsukuba / Bioinfomatics and Computational Biology
-  - B: Bio Resource Science (2019-2023)
-  - M: Bio Resource Science (2023-2025)
-  - (Next) PhD : Computer Science (2025-2028)
+  - UG: Bio Resource Science (2019-2023)
+  - MS: Bio Resource Science (2023-2025)
+  - PhD : Computer Science (2025-2028)
  
 - Research Assistant
   - National Institute of Advanced Industrial Science and Technology (AIST, 2024~)
